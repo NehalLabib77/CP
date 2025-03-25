@@ -37,4 +37,3 @@ int main()
     int res = abc + bca + cab;
     cout << res << endl;
 }
-// is this ok
