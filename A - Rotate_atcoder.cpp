@@ -23,7 +23,6 @@ int main()
     int bca = 0;
     bca = bca + b;
     bca = bca * 10;
-
     bca = bca + c;
     bca = bca * 10;
     bca = bca + a;
@@ -38,4 +37,3 @@ int main()
     int res = abc + bca + cab;
     cout << res << endl;
 }
-// is this ok
